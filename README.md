@@ -10,21 +10,21 @@ Thierry, Constance & Dubois, Jean-Christophe & Le Gall, Yolande & Martin, Arnaud
 
 ### Composition
 
-10 Classes | 15 images per class | 150 total images  
+10 Classes | 167 total images  
 Each class represents the species of a bird.
 
 ### Classes
 
-- Western jackdaw
-- Rook
-- Carrion crow
-- Common Raven
-- Great tit
-- Marsh tit
-- Blacked-capped Chickadee
-- Rock dove
-- Common wood pigeon
-- European robin
+- Western jackdaw | 15
+- Rook | 18
+- Carrion crow | 26
+- Common Raven | 16
+- Great tit | 15
+- Marsh tit | 15
+- Coal tit | 17
+- Rock dove | 15
+- Common wood pigeon | 15
+- European robin | 15
 
 ## Le jeu de données
 
@@ -37,18 +37,18 @@ Thierry, Constance & Dubois, Jean-Christophe & Le Gall, Yolande & Martin, Arnaud
 
 ### Composition
 
-10 Classes | 15 images par classe | 150 images au total  
+10 Classes | 150 images au total  
 Chaque classe représente l'espèce d'un oiseau.
 
 ### Classes
 
-- Choucas des tours
-- Corbeau freux
-- Corneille noire
-- Grand corbeau
-- Mésange charbonnière
-- Mésange nonnette
-- Mésange à tête noire
-- Pigeon biset
-- Pigeon ramier
-- Rouge-gorge
+- Choucas des tours | 15
+- Corbeau freux | 18
+- Corneille noire | 26
+- Grand corbeau | 16
+- Mésange charbonnière | 15
+- Mésange nonnette | 15
+- Mésange noire | 17
+- Pigeon biset | 15
+- Pigeon ramier | 15
+- Rouge-gorge | 15
