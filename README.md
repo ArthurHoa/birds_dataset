@@ -37,7 +37,7 @@ Thierry, Constance & Dubois, Jean-Christophe & Le Gall, Yolande & Martin, Arnaud
 
 ### Composition
 
-10 Classes | 150 images au total  
+10 Classes | 167 images au total  
 Chaque classe représente l'espèce d'un oiseau.
 
 ### Classes
